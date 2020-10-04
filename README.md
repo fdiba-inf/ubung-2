@@ -16,7 +16,7 @@ Dabei ist _java.util_ das Paket und _Scanner_ ist die Klasse, die sich in diesem
 \
 Die Klasse _Scanner_ (im Paket _java.util_) erlaubt das Lesen von der Tastatur (_System.in_) und 
 _Math_ (im Paket _java.lang_) bietet die mathematischen Operationen wie Quadratwurzel. 
-Standarte Klassen aus dem Paket java.lang (wie _System_, _Math_) sollen nicht importiert werden.
+Standarte Klassen aus dem Paket java.lang (wie _System_, _Math_) sollen nicht importiert werden. \
 \
 Java unterscheidet zwischen kleinen und großen Buchstaben. Schreiben Sie bei allen Namen den ersten Buchstaben klein und nur bei den Klassen groß z.B.
 * Variablen: _a, b, c, number, squareRoot_
