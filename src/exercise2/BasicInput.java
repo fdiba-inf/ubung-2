@@ -9,8 +9,9 @@ public class BasicInput {
 
         System.out.print("Enter a number: ");
         int number = input.nextInt();
+        double squareRoot = Math.sqrt(number);
 
-        System.out.println("You entered: " + number);
+        System.out.println("You entered: " + number + ". Its square root is " + squareRoot);
     }
 
 }
