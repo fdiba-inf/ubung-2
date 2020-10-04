@@ -26,16 +26,16 @@ Java unterscheidet zwischen kleinen und großen Buchstaben. Schreiben Sie bei al
 
 ## Aufgabe 1. Pi Annäherung
 Erstellen Sie eine neue Klasse mit dem Namen _PiApproximation_ im Paket _exercise2_. 
-Beim Starten soll die Applikation die Zahl Pi nach der angegebenen Formel berechnen und ausgeben.
-![Pi Formel](https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise2/pi.png)
+Beim Starten soll die Applikation die Zahl Pi nach der angegebenen Formel berechnen und ausgeben. \
+<img src="https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise2/pi.png" width="400">
 ``` 
 Pi: <value>
 ``` 
 ## Aufgabe 2. Kreis
 Erstellen Sie eine neue Klasse mit dem Namen _Circle_ im Paket _exercise2_. 
 Beim Starten soll der Benutzer den Radius in der Konsole eingeben. 
-Dann werden der Umfang und die Fläche nach der angegebenen Formeln berechnet und ausgegeben.
-![Kreis Formeln](https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise2/circle.png)
+Dann werden der Umfang und die Fläche nach der angegebenen Formeln berechnet und ausgegeben. \
+<img src="https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise2/circle.png" width="300">
 ``` 
 Circumference: <value>
 Area: <value>
