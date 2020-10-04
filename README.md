@@ -64,7 +64,7 @@ Number is <even/odd>
 ``` 
 ## Aufgabe 6. Quadratgleichung
 Erstellen Sie eine neue Klasse mit dem Namen _QuadraticEquation_ im Paket _exercise2_.
-Die nächste Applikation soll alle Fälle einer Quadratgleichung (_ax^2 + bx + c = 0_) behandeln: keine Lösung, eine Lösung, zwei Lösungen, unendlich viele Lösungen.
+Diese Applikation soll alle Fälle einer Quadratgleichung (_ax^2 + bx + c = 0_) behandeln: keine Lösung, eine Lösung, zwei Lösungen, unendlich viele Lösungen.
 Imaginäre Werte werden nicht speziell verarbeitet. Falls das vorkommt (Diskriminante < 0), drucken Sie den Text "_Imaginary values_".
 Benutzen Sie dabei das folgende Flussdiagramm/Blockschema:
 
