@@ -1,0 +1,2 @@
+language = "java"
+run = "directory=$(pwd) && cd ~/ubung*/src && for file in exercise*/*.java; do echo && echo \"#1 Compile $file\" && javac $file && class=$(echo $file | sed 's/.java//' | sed 's/\\//./') && echo \"#2 Run $class\" && echo && java $class; done && cd $directory"
