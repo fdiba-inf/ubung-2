@@ -27,7 +27,7 @@ Java unterscheidet zwischen kleinen und großen Buchstaben. Schreiben Sie bei al
 ## Aufgabe 1. Pi Annäherung
 Erstellen Sie eine neue Klasse mit dem Namen _PiApproximation_ im Paket _exercise2_. 
 Beim Starten soll die Applikation die Zahl Pi nach der angegebenen Formel berechnen und ausgeben.
-
+![Pi Formel](https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise2/pi.png)
 ``` 
 Pi: <value>
 ``` 
