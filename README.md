@@ -35,7 +35,7 @@ Pi: <value>
 Erstellen Sie eine neue Klasse mit dem Namen _Circle_ im Paket _exercise2_. 
 Beim Starten soll der Benutzer den Radius in der Konsole eingeben. 
 Dann werden der Umfang und die Fläche nach der angegebenen Formeln berechnet und ausgegeben.
-
+![Kreis Formeln](https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise2/circle.png)
 ``` 
 Circumference: <value>
 Area: <value>
@@ -67,7 +67,7 @@ Erstellen Sie eine neue Klasse mit dem Namen _QuadraticEquation_ im Paket _exerc
 Diese Applikation soll alle Fälle einer Quadratgleichung (_ax^2 + bx + c = 0_) behandeln: keine Lösung, eine Lösung, zwei Lösungen, unendlich viele Lösungen.
 Imaginäre Werte werden nicht speziell verarbeitet. Falls das vorkommt (Diskriminante < 0), drucken Sie den Text "_Imaginary values_".
 Benutzen Sie dabei das folgende Flussdiagramm/Blockschema:
-
+![Quadratgleichung Flussdiagramm](https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise2/quadratic-equation.png)
 ## Achtung! Achtung! Achtung!
 Wenn Sie alle Aufgaben gemacht haben, sollen Sie die Lösungen in _GitHub_ hochladen.
 
