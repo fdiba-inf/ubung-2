@@ -51,7 +51,7 @@ Sum of digits: <value>
 Erstellen Sie eine neue Klasse mit dem Namen _DayOfWeek_ im Paket _exercise2_.
 Beim Starten soll der Benutzer eine Zahl zwischen _1_ und _7_ in der Konsole eingeben. 
 Dann wird der Wochentag (_Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday_) berechnet und ausgegeben. 
-Wenn die eingegebene Zahl nicht zwischen _1_ und _7_ liegt, soll die Applikation die Nachricht "_Invalid day_" ausgeben. Nutzen Sie das _switch_ Schlüsselword.
+Wenn die eingegebene Zahl nicht zwischen _1_ und _7_ liegt, soll die Applikation den Text "_Invalid day_" ausgeben. Nutzen Sie das _switch_ Schlüsselword.
 ``` 
 Day of week: <value>
 ``` 
