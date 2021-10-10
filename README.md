@@ -2,7 +2,7 @@
 Quellcode der Vorlesung: https://github.com/fdiba-inf/vorlesung
 
 ## Repl.it öffnen
-Klicken Sie https://repl.it/auth/github/get. Wählen Sie Ihres Repository **fdiba-inf/ubung-2-{GitHub Benutzername}** unter _run your repos_.
+Klicken Sie https://repl.it/auth/github/get. Wählen Sie Ihres Repository **fdiba-inf/ubung-2-{GitHub Benutzername}** unter **GitHub repos**.
 
 ## Aufgabe 0. Eingabe
 Gehen Sie zum Verzeichnis _src/exercise2_. Klicken Sie die Datei _BasicInput.java_. \
@@ -69,5 +69,12 @@ Imaginäre Werte werden nicht speziell verarbeitet. Falls das vorkommt (Diskrimi
 Benutzen Sie dabei das folgende Flussdiagramm/Blockschema:
 ![Quadratgleichung Flussdiagramm](https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise2/quadratic-equation.png)
 ## Achtung! Achtung! Achtung!
-Wenn Sie alle Aufgaben gemacht haben, sollen Sie die Lösungen in _GitHub_ hochladen.
-
+Wenn Sie alle Aufgaben gemacht haben, sollen Sie die Lösungen in _GitHub_ hochladen. Geben Sie in der Konsole folgende Befehle ein:
+``` 
+git status
+git pull
+git add .
+git commit -m "Files updated"
+git push
+```
+Geben Sie Ihr Konto und Token ein.
