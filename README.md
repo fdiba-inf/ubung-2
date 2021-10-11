@@ -27,7 +27,7 @@ Java unterscheidet zwischen kleinen und großen Buchstaben. Schreiben Sie bei al
 ## Aufgabe 1. Pi Annäherung
 Erstellen Sie eine neue Klasse mit dem Namen _PiApproximation_ im Paket _exercise2_. 
 Beim Starten soll die Applikation die Zahl Pi nach der angegebenen Formel berechnen und ausgeben. \
-<img src="https://github.com/fdiba-inf/vorlesung/blob/master/images/exercise2/pi.png" width="400">
+<img src="https://github.com/fdiba-inf/vorlesung/blob/main/images/exercise2/pi.png" width="400">
 ``` 
 Pi: <value>
 ``` 
@@ -35,7 +35,7 @@ Pi: <value>
 Erstellen Sie eine neue Klasse mit dem Namen _Circle_ im Paket _exercise2_. 
 Beim Starten soll der Benutzer den Radius in der Konsole eingeben. 
 Dann werden der Umfang und die Fläche nach der angegebenen Formeln berechnet und ausgegeben. \
-<img src="https://github.com/fdiba-inf/vorlesung/blob/master/images/exercise2/circle.png" width="300">
+<img src="https://github.com/fdiba-inf/vorlesung/blob/main/images/exercise2/circle.png" width="300">
 ``` 
 Circumference: <value>
 Area: <value>
@@ -67,7 +67,7 @@ Erstellen Sie eine neue Klasse mit dem Namen _QuadraticEquation_ im Paket _exerc
 Diese Applikation soll alle Fälle einer Quadratgleichung (_ax^2 + bx + c = 0_) behandeln: keine Lösung, eine Lösung, zwei Lösungen, unendlich viele Lösungen.
 Imaginäre Werte werden nicht speziell verarbeitet. Falls das vorkommt (Diskriminante < 0), drucken Sie den Text "_Imaginary values_".
 Benutzen Sie dabei das folgende Flussdiagramm/Blockschema:
-![Quadratgleichung Flussdiagramm](https://github.com/fdiba-inf/vorlesung/blob/master/images/exercise2/quadratic-equation.png)
+![Quadratgleichung Flussdiagramm](https://github.com/fdiba-inf/vorlesung/blob/main/images/exercise2/quadratic-equation.png)
 ## Achtung! Achtung! Achtung!
 Wenn Sie alle Aufgaben gemacht haben, sollen Sie die Lösungen in _GitHub_ hochladen. Geben Sie in der Konsole folgende Befehle ein:
 ``` 
