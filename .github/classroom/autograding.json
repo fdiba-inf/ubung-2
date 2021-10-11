@@ -1,0 +1,174 @@
+{
+  "tests": [
+    {
+      "name": "PiApproximation.",
+      "setup": "cd src && javac exercise2/PiApproximation.java",
+      "run": "cd src && java exercise2.PiApproximation",
+      "input": "",
+      "output": "Pi: 3.1498",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "Circle Circumference.",
+      "setup": "cd src && javac exercise2/Circle.java",
+      "run": "cd src && java exercise2.Circle",
+      "input": "3",
+      "output": "Circumference: 18.8495",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "SumOfDigits 789.",
+      "setup": "cd src && javac exercise2/SumOfDigits.java",
+      "run": "cd src && java exercise2.SumOfDigits",
+      "input": "789",
+      "output": "Sum of digits: 24",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "SumOfDigits 56.",
+      "setup": "cd src && javac exercise2/SumOfDigits.java",
+      "run": "cd src && java exercise2.SumOfDigits",
+      "input": "56",
+      "output": "Sum of digits: 11",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "SumOfDigits 0.",
+      "setup": "cd src && javac exercise2/SumOfDigits.java",
+      "run": "cd src && java exercise2.SumOfDigits",
+      "input": "0",
+      "output": "Sum of digits: 0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "DayOfWeek 1.",
+      "setup": "cd src && javac exercise2/DayOfWeek.java",
+      "run": "cd src && java exercise2.DayOfWeek",
+      "input": "1",
+      "output": "Day of week: Monday",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "DayOfWeek 7.",
+      "setup": "cd src && javac exercise2/DayOfWeek.java",
+      "run": "cd src && java exercise2.DayOfWeek",
+      "input": "7",
+      "output": "Day of week: Sunday",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "DayOfWeek 10.",
+      "setup": "cd src && javac exercise2/DayOfWeek.java",
+      "run": "cd src && java exercise2.DayOfWeek",
+      "input": "10",
+      "output": "Day of week: Invalid day",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "EvenOrOddNumber 6.",
+      "setup": "cd src && javac exercise2/EvenOrOddNumber.java",
+      "run": "cd src && java exercise2.EvenOrOddNumber",
+      "input": "6",
+      "output": "Number is even",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "EvenOrOddNumber 15.",
+      "setup": "cd src && javac exercise2/EvenOrOddNumber.java",
+      "run": "cd src && java exercise2.EvenOrOddNumber",
+      "input": "15",
+      "output": "Number is odd",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "QuadraticEquation 1 2 1.",
+      "setup": "cd src && javac exercise2/QuadraticEquation.java",
+      "run": "cd src && java exercise2.QuadraticEquation",
+      "input": "1 2 1",
+      "output": "-1.0, -1.0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "QuadraticEquation 0 0 0.",
+      "setup": "cd src && javac exercise2/QuadraticEquation.java",
+      "run": "cd src && java exercise2.QuadraticEquation",
+      "input": "0 0 0",
+      "output": "Many values",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "QuadraticEquation 0 0 1.",
+      "setup": "cd src && javac exercise2/QuadraticEquation.java",
+      "run": "cd src && java exercise2.QuadraticEquation",
+      "input": "0 0 1",
+      "output": "No values",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "QuadraticEquation 0 2 1.",
+      "setup": "cd src && javac exercise2/QuadraticEquation.java",
+      "run": "cd src && java exercise2.QuadraticEquation",
+      "input": "0 2 1",
+      "output": "-0.5",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "QuadraticEquation 2 2 2.",
+      "setup": "cd src && javac exercise2/QuadraticEquation.java",
+      "run": "cd src && java exercise2.QuadraticEquation",
+      "input": "2 2 2",
+      "output": "Imaginary values",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "BasicInput 4.",
+      "setup": "cd src && javac exercise2/BasicInput.java",
+      "run": "cd src && java exercise2.BasicInput",
+      "input": "4",
+      "output": "You entered: 4. Its square root is 2.0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "Circle Area.",
+      "setup": "cd src && javac exercise2/Circle.java",
+      "run": "cd src && java exercise2.Circle",
+      "input": "3",
+      "output": "Area: 28.2743",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
